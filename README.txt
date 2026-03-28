@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1121157876.svg)](https://doi.org/10.5281/zenodo.19287182)
+
 In this repository you find 5 data sets used in the SNSF Spark project CRSK-2_220746 "Machine Learning Modular Forms".
 
 Data_1 contains data of 238 modular forms. The data consists of:
